@@ -13,9 +13,9 @@ Ease of Use: Simple scripts with clear instructions for usage.
 To use the script:
 
 “*”Clone this repository to your local machine.
-“*”Modify the provided domains.txt file to include the domains you want to add.
-“*”Run the script python add_blocker.py or if you are using linux python3 add_blocker.py
-“*”Follow the on-screen instructions to authenticate with your NextDNS account and add the domains.
+Modify the provided domains.txt file to include the domains you want to add.
+Run the script python add_blocker.py or if you are using linux python3 add_blocker.py
+Follow the on-screen instructions to authenticate with your NextDNS account and add the domains.
 
 # Requirements
 NextDNS Account: You need to have an active NextDNS account to use these scripts.
